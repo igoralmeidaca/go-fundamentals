@@ -9,5 +9,6 @@ use (
 	./pipeline
 	./pointers-basic
 	./pointers-copy
+	./select
 	./slices-arrays
 )
