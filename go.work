@@ -3,6 +3,7 @@ go 1.25.0
 use (
 	./channels
 	./error-group
+	./fan-out-fan-in
 	./map-filter-reduce
 	./maps
 	./pointers-basic

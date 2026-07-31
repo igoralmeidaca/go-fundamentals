@@ -11,7 +11,7 @@ func main() {
 }
 
 func channelWithBuffer() {
-	// communication betwenn gorountines
+	// communication between gorountines
 	ch := make(chan int, 3) // buffer
 
 	for range 3 {
