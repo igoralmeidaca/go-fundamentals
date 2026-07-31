@@ -6,6 +6,7 @@ use (
 	./fan-out-fan-in
 	./map-filter-reduce
 	./maps
+	./pipeline
 	./pointers-basic
 	./pointers-copy
 	./slices-arrays
