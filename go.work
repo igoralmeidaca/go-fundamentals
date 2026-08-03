@@ -2,6 +2,7 @@ go 1.25.0
 
 use (
 	./channels
+	./channels-ticker
 	./error-group
 	./fan-out-fan-in
 	./map-filter-reduce
