@@ -11,6 +11,7 @@ use (
 	./pipeline
 	./pointers-basic
 	./pointers-copy
+	./rwmutex
 	./select
 	./slices-arrays
 )
