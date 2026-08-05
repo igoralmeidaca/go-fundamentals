@@ -8,6 +8,7 @@ use (
 	./fan-out-fan-in
 	./map-filter-reduce
 	./maps
+	./once
 	./pipeline
 	./pointers-basic
 	./pointers-copy
