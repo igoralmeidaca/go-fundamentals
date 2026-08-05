@@ -4,6 +4,7 @@ use (
 	./channels
 	./channels-broadcast
 	./channels-ticker
+	./cond
 	./error-group
 	./fan-out-fan-in
 	./map-filter-reduce
